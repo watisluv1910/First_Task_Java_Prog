@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.function.Function;
 
 
-public class Main {
+public class SubtaskThree {
 
     private final static Scanner scanner = new Scanner(System.in);
 
